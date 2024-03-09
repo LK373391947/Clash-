@@ -10,6 +10,6 @@ DOMAIN,c.olddddd.com
 DOMAIN,static.nivod4.tv
 
 DOMAIN,github
-DOMAIN,github.com
+DOMAIN-SUFFIX,github.com
 
-DOMAIN,bulianglin.com
+DOMAIN-SUFFIX,bulianglin.com
