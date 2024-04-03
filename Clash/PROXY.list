@@ -6,11 +6,15 @@
 # DOMAIN-SUFFIX: 9
 # TOTAL: 10
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
+# 泥视频
 DOMAIN,c.olddddd.com
 DOMAIN,c002.olddddd.com
 DOMAIN-SUFFIX,static.nivod4.tv
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-KEYWORD,facebook
+# 蓝海加速
 DOMAIN-KEYWORD,lanhaijiasu
 DOMAIN-SUFFIX,lanhaijiasu.cloud
+# 非常论坛
+DOMAIN-SUFFIX,machbbs.com
