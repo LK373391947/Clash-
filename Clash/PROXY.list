@@ -21,4 +21,5 @@ DOMAIN-SUFFIX,dalao.im
 # 群晖
 # DOMAIN-KEYWORD,synology
 # EMBY
-DOMAIN-KEYWORD,fanart
+DOMAIN-SUFFIX,fanart.tv
+
