@@ -22,4 +22,9 @@ DOMAIN-SUFFIX,dalao.im
 # DOMAIN-KEYWORD,synology
 # EMBY
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-KEYWORD,fanart
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-KEYWORD,tmdb
+# google
+DOMAIN-SUFFIX,googleapis.com
 
