@@ -9,14 +9,13 @@
 ;显示IP归属地应用伪装：支持
 
 ;设置规则标志位
-
+# 代理名单
+ruleset=🚀 国外流量,https://raw.githubusercontent.com/LK373391947/Clash-/master/Clash/PROXY.list
 # 白名单
 ruleset=🎯 国内流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🎯 国内流量,https://raw.githubusercontent.com/LK373391947/Clash-/master/Clash/DIRECT.list
 # 本地规则
 ruleset=🎯 国内流量,clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml
-# Google规则
-ruleset=🌐 Google,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
 # 群晖规则
 ruleset=🖥️ 群晖NAS,clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Synology/Synology.yaml
 # Speedtest规则
@@ -41,6 +40,8 @@ ruleset=🎵 Spotify,clash-classic:https://raw.githubusercontent.com/blackmatrix
 # YouTube规则
 ruleset=📹 YouTube,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash//YouTube/YouTube.list
 ruleset=📹 YouTube,clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml
+# GlobalMedia规则
+ruleset=🌍 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list
 # Telegram规则
 # ruleset=📲 Telegram,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
 ruleset=📲 Telegram,clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml
@@ -52,19 +53,17 @@ ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/blackmatrix7/ios_r
 ruleset=🕊 Twitter,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
 # Facebook
 ruleset=📖 Facebook,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook.list,no-resolve
+# Google规则
+ruleset=🌐 Google,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
 # Apple规则
 ruleset=🍎 苹果服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+# Global规则
+ruleset=🚀 国外流量,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global.list
+ruleset=🚀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 # BiliBili规则
 ruleset=📺 Bilibili,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.list
 # Advertising规则
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising.list
-# GlobalMedia规则
-ruleset=🌍 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list
-# Global规则
-ruleset=🚀 国外流量,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global.list
-ruleset=🚀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
-# 代理名单
-ruleset=🚀 国外流量,https://raw.githubusercontent.com/LK373391947/Clash-/master/Clash/PROXY.list
 # 国内流量
 ruleset=🎯 国内流量,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/China.list
 # 结束
