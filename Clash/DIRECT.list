@@ -6,8 +6,10 @@
 # DOMAIN-SUFFIX: 1
 # TOTAL: 10
 DOMAIN-KEYWORD,828dee5
-DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,m-team # 馒头
+DOMAIN-KEYWORD,right # 恩山无线论坛
+DOMAIN-KEYWORD,jd # 京东
 DOMAIN-SUFFIX,seeworld.work
 DOMAIN-SUFFIX,lanhaijiasu.cloud
 DOMAIN,data.flurry.com
-DST-PORT,22
+DST-PORT,22 # 22端口直连有效防止github远程无法访问
