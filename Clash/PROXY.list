@@ -18,4 +18,33 @@ DOMAIN-KEYWORD,lanhaijiasu
 DOMAIN-KEYWORD,tmdb
 DOMAIN-KEYWORD,fanart
 DOMAIN,pics.dmm.co.jp
-
+ - DOMAIN-SUFFIX,fanart.tv
+ - DOMAIN-SUFFIX,tmdb.org
+ - DOMAIN-SUFFIX,v2ex.com
+ - DOMAIN-SUFFIX,themoviedb.org
+ - DOMAIN-SUFFIX, av6k.com
+ - DOMAIN,pics.dmm.co.jp
+## 维基百科
+ - DOMAIN-SUFFIX,mediawiki.org
+ - DOMAIN-SUFFIX,wikibooks.org
+ - DOMAIN-SUFFIX,wikidata.org
+ - DOMAIN-SUFFIX,wikileaks.org
+ - DOMAIN-SUFFIX,wikimedia.org
+ - DOMAIN-SUFFIX,wikinews.org
+ - DOMAIN-SUFFIX,wikipedia.org
+ - DOMAIN-SUFFIX,wikiquote.org
+ - DOMAIN-SUFFIX,wikisource.org
+ - DOMAIN-SUFFIX,wikiversity.org
+ - DOMAIN-SUFFIX,wikivoyage.org
+ - DOMAIN-SUFFIX,wiktionary.org
+ - DOMAIN-KEYWORD,docker
+## 网站
+ - DOMAIN-SUFFIX,sjs47.me
+ - DOMAIN-SUFFIX,xsijishe.com
+ - DOMAIN-SUFFIX,sijishe.link
+ - DOMAIN-SUFFIX,sijishe.info
+ - DOMAIN-SUFFIX,xsijishe.net
+ - DOMAIN-SUFFIX,apkpure.net
+ - DOMAIN-SUFFIX,aptoide.com
+ # 电影种子网站
+ - DOMAIN-SUFFIX,1337x.to
