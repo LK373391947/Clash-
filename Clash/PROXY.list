@@ -18,10 +18,13 @@ DOMAIN-KEYWORD,lanhaijiasu
 DOMAIN-KEYWORD,tmdb
 DOMAIN-KEYWORD,fanart
 DOMAIN,pics.dmm.co.jp
+
+
  - DOMAIN-SUFFIX,fanart.tv
  - DOMAIN-SUFFIX,tmdb.org
  - DOMAIN-SUFFIX,v2ex.com
  - DOMAIN-SUFFIX,themoviedb.org
+ - DOMAIN-SUFFIX,slack.com
  - DOMAIN-SUFFIX, av6k.com
  - DOMAIN,pics.dmm.co.jp
 ## 维基百科
