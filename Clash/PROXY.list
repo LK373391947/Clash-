@@ -17,7 +17,9 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-KEYWORD,lanhaijiasu
 DOMAIN-KEYWORD,tmdb
 DOMAIN-KEYWORD,fanart
+# 学习网站
 DOMAIN,pics.dmm.co.jp
+DOMAIN-SUFFIX,avjoy.me
 
 
  - DOMAIN-SUFFIX,fanart.tv
