@@ -1,0 +1,20 @@
+# NAME: 自定义代理规则
+DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,sjs47.me
+DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,lanhaijiasu.cloud
+DOMAIN-SUFFIX,machbbs.com
+DOMAIN-SUFFIX,dalao.im
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-KEYWORD,lanhaijiasu
+DOMAIN-KEYWORD,tmdb
+DOMAIN-KEYWORD,fanart
+# 学习网站
+DOMAIN,pics.dmm.co.jp
+DOMAIN-SUFFIX,avjoy.me
