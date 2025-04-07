@@ -46,6 +46,7 @@ payload:
   - DOMAIN,pic.duga.jp
   - DOMAIN,dl.getchu.com
   - DOMAIN-KEYWORD,avjoy
+  - DOMAIN-SUFFIX,hsex.men
   # 种子/BT资源网站
   - DOMAIN-SUFFIX,1337x.to
   # 飞天拉面
