@@ -13,8 +13,4 @@ payload:
   - DOMAIN-SUFFIX,seeworld.work
   - DOMAIN-SUFFIX,lanhaijiasu.cloud
   - DOMAIN,data.flurry.com
-  - SRC-IP-CIDR,149.112.112.112/32
-  - SRC-IP-CIDR,9.9.9.9/32
-  - SRC-IP-CIDR,1.0.0.1/32
-  - SRC-IP-CIDR,1.1.1.1/32
   - DST-PORT,22                    # 22端口直连有效防止github远程无法访问
