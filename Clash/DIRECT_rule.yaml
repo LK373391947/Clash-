@@ -8,7 +8,13 @@
 payload:
   - DOMAIN-KEYWORD,828dee5
   - DOMAIN-KEYWORD,m-team          # 馒头
-  - DOMAIN-KEYWORD,right           # 恩山无线论坛
+          
+  # # 恩山无线论坛
+  - DOMAIN-KEYWORD,right
+  - DOMAIN-SUFFIX,right.com.cn
+  - DOMAIN,www.right.com.cn
+  - SRC-IP-CIDR,220.185.184.16/32
+  
   - DOMAIN-KEYWORD,jd              # 京东
   - DOMAIN-SUFFIX,seeworld.work
   - DOMAIN-SUFFIX,lanhaijiasu.cloud
