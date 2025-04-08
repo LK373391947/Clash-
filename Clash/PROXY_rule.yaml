@@ -51,3 +51,5 @@ payload:
   - DOMAIN-SUFFIX,1337x.to
   # 飞天拉面
   - DOMAIN,fsm.name
+  # http代理端口
+  - DST-PORT,7890
