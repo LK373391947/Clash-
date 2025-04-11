@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,lanhaijiasu.cloud
   - DOMAIN,data.flurry.com
   - DST-PORT,22                    # 22端口直连有效防止github远程无法访问
+  - DST-PORT,25                    # 端口25 上侦听传入的电子邮件
