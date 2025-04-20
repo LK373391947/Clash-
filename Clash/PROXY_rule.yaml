@@ -33,6 +33,7 @@ payload:
   - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,github
   # 司机社类网站
+  - DOMAIN-SUFFIX,urlimage.cc
   - DOMAIN-SUFFIX,sjs47.me
   - DOMAIN-SUFFIX,xsijishe.com
   - DOMAIN-SUFFIX,sijishe.link
@@ -51,4 +52,4 @@ payload:
   # 飞天拉面
   - DOMAIN,fsm.name
   # http代理端口
-  - DST-PORT,7890
+  # - DST-PORT,7890
