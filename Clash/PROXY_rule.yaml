@@ -46,7 +46,6 @@ payload:
   - DOMAIN,dl.getchu.com
   - DOMAIN-KEYWORD,avjoy
   - DOMAIN-SUFFIX,hsex.men
-  - DOMAIN,pics.dmm.co
   # 种子/BT资源网站
   - DOMAIN-SUFFIX,1337x.to
   # 飞天拉面
