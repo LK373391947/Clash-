@@ -42,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,apkpure.net
   - DOMAIN-SUFFIX,aptoide.com
   # 学习资料网站
+  
+  - DOMAIN,dmm.co.jp
   - DOMAIN,pics.dmm.co.jp
   - DOMAIN,pic.duga.jp
   - DOMAIN,dl.getchu.com
