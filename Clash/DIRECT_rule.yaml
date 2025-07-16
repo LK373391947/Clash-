@@ -7,16 +7,18 @@
 # TOTAL: 9
 payload:
   - DOMAIN-KEYWORD,828dee5
-  - DOMAIN-KEYWORD,m-team,DIRECT
+  - DOMAIN-KEYWORD,m-team
   # # 恩山无线论坛
   - DOMAIN-KEYWORD,right
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN,www.right.com.cn
   - SRC-IP-CIDR,220.185.184.16/32
-  
-  - DOMAIN-KEYWORD,jd              # 京东
+  # 京东
+  - DOMAIN-KEYWORD,jd
   - DOMAIN-SUFFIX,seeworld.work
   - DOMAIN-SUFFIX,lanhaijiasu.cloud
   - DOMAIN,data.flurry.com
-  - DST-PORT,22                    # 22端口直连有效防止github远程无法访问
-  - DST-PORT,25                    # 端口25 上侦听传入的电子邮件
+  # 22端口直连有效防止github远程无法访问
+  - DST-PORT,22
+  # 端口25 上侦听传入的电子邮件
+  - DST-PORT,25
