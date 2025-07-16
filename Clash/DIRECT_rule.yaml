@@ -1,14 +1,14 @@
 # NAME: 自定义直连规则
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-25 15:58:39
+# UPDATED: 2025-07-16 15:58:39
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 1
 # TOTAL: 9
 payload:
   - DOMAIN-KEYWORD,828dee5
   - DOMAIN-KEYWORD,m-team
-  # # 恩山无线论坛
+  # 恩山无线论坛
   - DOMAIN-KEYWORD,right
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN,www.right.com.cn
