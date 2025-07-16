@@ -7,8 +7,7 @@
 # TOTAL: 9
 payload:
   - DOMAIN-KEYWORD,828dee5
-  - DOMAIN-KEYWORD,m-team          # 馒头
-          
+  - DOMAIN-KEYWORD,m-team     
   # # 恩山无线论坛
   - DOMAIN-KEYWORD,right
   - DOMAIN-SUFFIX,right.com.cn
