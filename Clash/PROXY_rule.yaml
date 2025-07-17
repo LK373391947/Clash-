@@ -16,22 +16,9 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,av6k.com
-  # 维基百科系列
-  - DOMAIN-SUFFIX,mediawiki.org
-  - DOMAIN-SUFFIX,wikibooks.org
-  - DOMAIN-SUFFIX,wikidata.org
-  - DOMAIN-SUFFIX,wikileaks.org
-  - DOMAIN-SUFFIX,wikimedia.org
-  - DOMAIN-SUFFIX,wikinews.org
-  - DOMAIN-SUFFIX,wikipedia.org
-  - DOMAIN-SUFFIX,wikiquote.org
-  - DOMAIN-SUFFIX,wikisource.org
-  - DOMAIN-SUFFIX,wikiversity.org
-  - DOMAIN-SUFFIX,wikivoyage.org
-  - DOMAIN-SUFFIX,wiktionary.org
+
   # 开发相关
   - DOMAIN-KEYWORD,docker
-  - DOMAIN-KEYWORD,github
   # 司机社类网站
   - DOMAIN-SUFFIX,urlimage.cc
   - DOMAIN-SUFFIX,sjs47.me
@@ -39,9 +26,7 @@ payload:
   - DOMAIN-SUFFIX,sijishe.link
   - DOMAIN-SUFFIX,sijishe.info
   - DOMAIN-SUFFIX,xsijishe.net
-  # 应用市场/镜像站
-  - DOMAIN-SUFFIX,apkpure.net
-  - DOMAIN-SUFFIX,aptoide.com
+
   # 学习资料网站
   - DOMAIN,pic.duga.jp
   - DOMAIN,dl.getchu.com
@@ -52,7 +37,6 @@ payload:
   # 飞天拉面
   - DOMAIN,fsm.name
   # 论坛
-  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-KEYWORD,mb6
   - DOMAIN-SUFFIX,translation.api.com
   - DOMAIN-SUFFIX,devuploads.com
