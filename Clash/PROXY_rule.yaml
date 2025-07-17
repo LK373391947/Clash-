@@ -19,6 +19,7 @@ payload:
 
   # 开发相关
   - DOMAIN-KEYWORD,docker
+  - DOMAIN-KEYWORD,github
   # 司机社类网站
   - DOMAIN-SUFFIX,urlimage.cc
   - DOMAIN-SUFFIX,sjs47.me
