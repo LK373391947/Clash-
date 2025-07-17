@@ -53,6 +53,11 @@ payload:
   - DOMAIN,fsm.name
   # 论坛
   - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-KEYWORD,mb6
+  - DOMAIN-SUFFIX,translation.api.com
+  - DOMAIN-SUFFIX,devuploads.com
+  - DOMAIN-SUFFIX,mega4upload.com
+  - DOMAIN-SUFFIX,dropgalaxy.vip
   
   # http代理端口
   # - DST-PORT,7890
