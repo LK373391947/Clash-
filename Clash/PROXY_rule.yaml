@@ -43,8 +43,7 @@ payload:
   - DOMAIN-SUFFIX,devuploads.com
   - DOMAIN-SUFFIX,mega4upload.com
   - DOMAIN-SUFFIX,dropgalaxy.vip
-  # ubuntu
-  - DOMAIN-KEYWORD,ubuntu
+
   
   # http代理端口
   # - DST-PORT,7890
