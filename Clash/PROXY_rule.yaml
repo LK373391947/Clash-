@@ -44,7 +44,32 @@ payload:
   - DOMAIN-SUFFIX,devuploads.com
   - DOMAIN-SUFFIX,mega4upload.com
   - DOMAIN-SUFFIX,dropgalaxy.vip
-
+  # 自定义代理网站
+  - DOMAIN-SUFFIX,dynadot.com
+  - DOMAIN-KEYWORD,deb-multimedia
+  - DOMAIN-SUFFIX,timeweb.cloud
+  - DOMAIN-SUFFIX,fastlydns.net
+  - DOMAIN-KEYWORD,eufylife
+  - DOMAIN-SUFFIX,xdaforums.com
+  - DOMAIN-SUFFIX,npmjs.org
+  # AI
+  - DOMAIN-SUFFIX,firecrawl.dev
+  - DOMAIN-SUFFIX,e2b.dev
+  # 系统
+  - DOMAIN-SUFFIX,armbian.com
+  - DOMAIN-SUFFIX,t-firefly.com
+  - DOMAIN-SUFFIX,anon-v.com
+  - DOMAIN-SUFFIX,sj474.vip
+  - DOMAIN-SUFFIX,alpinelinux.org
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,nodejs.org
+  - DOMAIN-SUFFIX,ftp-stud.hs-esslingen.de
+  - DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
+  # 应用下载
+  - DOMAIN-SUFFIX,ipaomtk.com
+  - DOMAIN-SUFFIX,bilin.eu.org
+  - DOMAIN-SUFFIX,decrypt.day
+  - DOMAIN-SUFFIX,maytec.de 
   
   # http代理端口
   # - DST-PORT,7890
