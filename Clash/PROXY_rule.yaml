@@ -52,6 +52,7 @@ payload:
   - DOMAIN-KEYWORD,eufylife
   - DOMAIN-SUFFIX,xdaforums.com
   - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-KEYWORD,decompiler
   # AI
   - DOMAIN-SUFFIX,firecrawl.dev
   - DOMAIN-SUFFIX,e2b.dev
